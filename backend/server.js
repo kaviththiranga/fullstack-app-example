@@ -38,5 +38,5 @@ app.get('/api/project', (req, res) => {
 // Start the server and listen on the specified port
 app.listen(PORT, () => {
     // Log a message to indicate the server is running
-    console.log(`Server running on port ${PORT}`);
+    console.log(`Server running on port - test ${PORT}`);
 });
